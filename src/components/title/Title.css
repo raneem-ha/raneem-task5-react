@@ -1,0 +1,40 @@
+.gategory{color: #DF6951;
+
+
+font-family: Poppins;
+font-size: 18px;
+
+font-weight: 600;
+
+}
+.offer{
+     max-width: max-content;
+
+    text-align: center;
+    font-family: Poppins;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+   }
+   .section1-title{
+     height: 100px;
+    max-width:max-content;
+    margin: 70px auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+   }
+  .offer1{
+
+     font-size: 2.2rem;
+  }
+  .section1-title1{
+     display: flex;
+     flex-direction: column;
+     gap: 15px;
+
+  }

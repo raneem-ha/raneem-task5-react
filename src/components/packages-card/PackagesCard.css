@@ -1,0 +1,87 @@
+.package-card{
+
+    max-width: 350px;
+    background-color: #F9F9F9;
+    display: flex;
+    flex-direction: column;
+  
+   align-items: center;
+ 
+    
+}
+.package-card img{
+    width: 90%;
+    padding-top: 17px;
+   
+}
+.date{height: 39px;
+   border-radius:  0px 0px 4px 4px;
+    background: #DF6951;;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    color: #F5F3F3;
+
+padding: 0 15px;
+font-family: Poppins;
+font-size: 12.974px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+.place{ width: 90%;
+    color: #181E4B;
+    padding-top: 15px;
+
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: capitalize;
+
+}
+.package-desc, .price-rate{
+    width: 90%;
+    color: #181E4B;
+
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+}
+.price-rate{
+    width: 90%;
+    display: flex;
+   gap: 40px;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 18px;
+
+    color: #262626;
+
+  
+  
+    font-size: 16px;
+ 
+    font-weight: 500;
+   
+}
+.price-rate i{
+    color: #DF6951;
+}
+
+
+@media screen and (max-width: 992px){
+    
+    .package-card{
+        min-width: 300px;
+    }
+
+
+}
