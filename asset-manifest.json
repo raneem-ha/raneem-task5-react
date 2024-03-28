@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/raneem-task5-react/static/css/main.125f4fab.css",
-    "main.js": "/raneem-task5-react/static/js/main.16ecaec1.js",
+    "main.js": "/raneem-task5-react/static/js/main.9a75ebc1.js",
     "static/js/787.80b0dd78.chunk.js": "/raneem-task5-react/static/js/787.80b0dd78.chunk.js",
     "static/media/about-bg.png": "/raneem-task5-react/static/media/about-bg.671e4a4be2012ad0ca49.png",
     "static/media/packages-bg.png": "/raneem-task5-react/static/media/packages-bg.ddc8f9a5749d83a9f570.png",
@@ -24,11 +24,11 @@
     "index.html": "/raneem-task5-react/index.html",
     "static/media/video-play.svg": "/raneem-task5-react/static/media/video-play.812a34274a18cfacde338a65ca8d30cf.svg",
     "main.125f4fab.css.map": "/raneem-task5-react/static/css/main.125f4fab.css.map",
-    "main.16ecaec1.js.map": "/raneem-task5-react/static/js/main.16ecaec1.js.map",
+    "main.9a75ebc1.js.map": "/raneem-task5-react/static/js/main.9a75ebc1.js.map",
     "787.80b0dd78.chunk.js.map": "/raneem-task5-react/static/js/787.80b0dd78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.125f4fab.css",
-    "static/js/main.16ecaec1.js"
+    "static/js/main.9a75ebc1.js"
   ]
 }
